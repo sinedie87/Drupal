@@ -1,0 +1,19 @@
+.content_layout img {
+    width: 250px;
+    height: 170px;
+    padding: 16px;
+} 
+
+.layout {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.sidebar {
+    text-align: center;
+}
+
+.col-1, .col-2, .col-3 {
+    max-width: none;
+}
