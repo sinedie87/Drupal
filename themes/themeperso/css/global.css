@@ -161,12 +161,12 @@ ul.tabs {
   color: #444; }
 
 .tabs a.is-active {
-  background-color: #ff982c;
+  background-color: #487eb0;
   color: #fff; }
 
 .tabs a:focus,
 .tabs a:hover {
-  background-color: #ff8300;
+  background-color: #40739e;
   color: #fff; }
 
 /**
@@ -304,7 +304,7 @@ h2, .h2,
 h3, .h3,
 h4, .h4 {
   font-family: "Poppins", sans-serif;
-  color: #ff982c;
+  color: #487eb0;
   font-weight: 400;
   margin: 10px 0;
   line-height: 120%; }
@@ -332,7 +332,7 @@ strong, b {
   font-weight: bold; }
 
 h2.title {
-  color: #ff982c; }
+  color: #487eb0; }
 
 .custom-block-title {
   text-align: center;
@@ -347,9 +347,9 @@ h2.title {
   color: #008000; }
 
 a {
-  color: #ff982c; }
+  color: #487eb0; }
   a:hover {
-    color: #ff8300;
+    color: #40739e;
     text-decoration: none; }
 
 ol, ul {
@@ -436,7 +436,7 @@ body {
     padding: 4px 8px;
     width: 26px; }
     .social-media a:hover {
-      color: #ff8300; }
+      color: #40739e; }
 
 /*Form*/
 input, button, select, textarea {
@@ -450,7 +450,7 @@ input, button, select, textarea {
 .node-readmore a,
 .flexslider .more-link,
 input[type="submit"] {
-  background: #ff982c;
+  background: #487eb0;
   cursor: pointer;
   color: #fff;
   border: 0;
@@ -470,7 +470,7 @@ input[type="submit"] {
 .node-readmore a:hover,
 .flexslider .more-link:hover,
 input[type="submit"]:hover {
-  background: #ff8300;
+  background: #40739e;
   color: #fff; }
 
 /*Comment*/
@@ -756,7 +756,7 @@ abbr.ajax-changed {
   #search-block-form .form-actions {
     width: 30px; }
   #search-block-form input.form-submit {
-    background: url('../images/search.png?1532937786') no-repeat center #ff982c;
+    background: url('../images/search.png?1532937786') no-repeat center #487eb0;
     font-size: 0;
     width: 100%;
     height: 30px;
@@ -766,8 +766,8 @@ abbr.ajax-changed {
     -webkit-border-radius: 0;
     border-radius: 0 20px 20px 0; }
     #search-block-form input.form-submit:hover {
-      background-color: #ff8300;
-      border-color: #ff8300; }
+      background-color: #40739e;
+      border-color: #40739e; }
   #search-block-form input {
     width: 100%;
     height: 30px;
@@ -925,7 +925,7 @@ nav h2 {
     font-size: 1.1em; }
     .menu-base-theme li a:hover, .menu-base-theme li a:focus, .menu-base-theme li a:active, .menu-base-theme li a.highlighted {
       background: none;
-      color: #ff982c;
+      color: #487eb0;
       line-height: 100%;
       padding: 24px 20px; }
     .menu-base-theme li a.sub-arrow {
